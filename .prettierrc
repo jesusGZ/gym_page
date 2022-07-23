@@ -1,0 +1,16 @@
+{
+	"semi": true,
+	"tabWidth": 4,
+	"printWidth": 140,
+	"singleQuote": true,
+	"jsxSingleQuote": true,
+	"trailingComma": "es5",
+	"arrowParens": "always",
+	"endOfLine": "auto",
+	"importOrder": ["^@/styles/(.*)$", "^@/components(.*)$", "^@/(.*)$", "^[./]", "^"],
+	"importOrderSeparation": true,
+	"importOrderSortSpecifiers": true,
+	"useTabs": true,
+	"bracketSpacing": false,
+	"jsxBracketSameLine": false
+}
